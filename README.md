@@ -1,7 +1,7 @@
-# Sistem Rekomendasi HP Sederhana
+# Rekomendasi HP Sederhana
 
-Aplikasi Streamlit menggunakan logika IF-ELSE untuk memberikan rekomendasi HP berdasarkan budget dan kebutuhan.
+Praktikum 1 Ssitem Cerdas
 
-## Cara Menjalankan
+## Additional
 pip install streamlit  
 streamlit run app.py
