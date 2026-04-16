@@ -1,6 +1,6 @@
 # Sistem Rekomendasi HP Sederhana
 
-Praktikum 1 Ssitem Cerdas
+Praktikum 1 Sistem Cerdas
 
 ## Additional
 pip install streamlit  
